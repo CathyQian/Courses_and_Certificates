@@ -3,31 +3,31 @@ This repository contains all homework of for the online course Algorithms: Desig
 Table of Contents
 
 Week 1
-Recursive Algorithm
-Karatsuba Multiplication
-Merge Sort (O(nlogn))
-Strassen’s Algorithm (for multiplication)
+- Recursive Algorithm
+- Karatsuba Multiplication
+- Merge Sort (O(nlogn))
+- Strassen’s Algorithm (for multiplication)
 
 Week 2
-Master Method
-Quick Sort Algorithm (O(nlogn))
+- Master Method
+- Quick Sort Algorithm (O(nlogn))
 
 Week 3
-Minimum Cut (Graph, Adjacency list/matrix)
-Rselect (return the ith element of an array) (O(n))
+- Minimum Cut (Graph, Adjacency list/matrix)
+- Rselect (return the ith element of an array) (O(n))
 
 Week 4
-Graph search (Breadth-First Search, Depth-First-Search)
-Topological Sort (via DFS))
-Strongly connected components
+- Graph search (Breadth-First Search, Depth-First-Search)
+- Topological Sort (via DFS))
+- Strongly connected components
 
 Week 5
-Dijkstra’s shortest path algorithm (O(mlogn))
-Heaps
-Balanced binary search tree
-Black-red tree
+- Dijkstra’s shortest path algorithm (O(mlogn))
+- Heaps
+- Balanced binary search tree
+- Black-red tree
 
 Week 6
-Hash table (insert, delete, lookup)
-2-sum problem(O(n) using Hash table)
-Bloom Filters
+- Hash table (insert, delete, lookup)
+- 2-sum problem(O(n) using Hash table)
+- Bloom Filters
