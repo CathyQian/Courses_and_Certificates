@@ -1,6 +1,4 @@
-This repository contains all homework of for the online course Machine Learning
-on Coursera provided by Stanford University via Prof. Andrew Ng.
-This work was done July-Sep 2016 using Octave.
+### This repository contains all homework of for the online course Machine Learning on Coursera provided by Stanford University via Prof. Andrew Ng. This work was done July-Sep 2016 using Octave.
 
 Given that most of the projects contains large chunks of code provided by the course provider, I am not permitted to put these projects online.
 
