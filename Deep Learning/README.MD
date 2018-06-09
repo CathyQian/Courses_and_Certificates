@@ -1,2 +1,1 @@
-### This repository contains certificates and related information for the deep learning course provided by Prof. Andrew Ng from Stanford
-University on Coursera. These certificates are completed on Aug-Oct 2017.
+### This repository contains certificates and related information for the deep learning course provided by Prof. Andrew Ng from Stanford University on Coursera. These certificates are completed on Aug-Oct 2017.
