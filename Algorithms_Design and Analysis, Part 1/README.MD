@@ -1,4 +1,4 @@
-This repository contains all homework of for the online course Algorithms: Design and Analysis, Part 1 on Coursera provided by Stanford University via Prof. Tim Roughgarden. This work was done July-Aug 2016 using Python 2.7.
+### This repository contains all homework of for the online course Algorithms: Design and Analysis, Part 1 on Coursera provided by Stanford University via Prof. Tim Roughgarden. This work was done July-Aug 2016 using Python 2.7.
 
 Table of Contents
 
