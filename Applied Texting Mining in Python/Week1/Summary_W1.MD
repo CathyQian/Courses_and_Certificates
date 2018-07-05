@@ -83,8 +83,8 @@ or read from file:
 ### Mislaneous
 
     # word comparison functions
-    s.startwith(t) # find string start with t in s iteratives
-    s.endswith(t) # find string end with t
+    s.startswith(t) # return True/False depends on s starts with t or not
+    s.endswith(t) # return True/False depends on s starts with t or not
     t in s
     s.isupper()
     s.islower()
